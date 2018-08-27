@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <!ELEMENT admin_credentials (user+)>
+  <!ELEMENT user (email,pass,name,numberPost)>
+  <!ELEMENT email (#PCDATA)>
+  <!ELEMENT pass (#PCDATA)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT numberPost (#PCDATA)>
+  <!ATTLIST user id ID #REQUIRED>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+  <!ELEMENT Feedback (Response*)>
+  <!ELEMENT Response (Name, Message)>
+  <!ELEMENT Name (#PCDATA)>
+  <!ELEMENT Message (#PCDATA)>
+  <!ATTLIST Response id ID #REQUIRED>
+  <!ATTLIST Response PostId CDATA #REQUIRED>

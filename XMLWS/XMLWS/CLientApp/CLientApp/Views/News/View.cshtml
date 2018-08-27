@@ -1,0 +1,28 @@
+﻿@model IEnumerable<CLientApp.Models.Article>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>View</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+</head>
+<body style="width:600px; height:100%; margin: 0 auto; background:rgba(0, 0, 0, 0.5);>
+    @foreach (var item in Model)
+    {
+    <div class="jumbotron">
+        <div><img src="@Html.DisplayFor(modelItem => item.urlToImage)" style="width:200px; height:200px;" alt="Image" /></div><br />
+        <div>@Html.DisplayFor(modelItem => item.author)</div><br />
+        <div class="display-4">@Html.DisplayFor(modelItem => item.title) </div><br />
+        <div class="lead"> @Html.DisplayFor(modelItem => item.description)</div><br />
+        <div><a href="@Html.DisplayFor(modelItem => item.url)" class="badge badge-primary">ReadMore</a></div><br />
+        <div> @Html.DisplayFor(modelItem => item.publishedAt)</div>
+    </div>
+    }
+</body>
+</html>

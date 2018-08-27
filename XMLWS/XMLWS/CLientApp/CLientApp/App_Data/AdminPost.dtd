@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT AdminPost (Post*)>
+<!ATTLIST Post id ID #REQUIRED>
+<!ELEMENT Post (Title, Location, Author, Date, Description, Hashtag)>
+<!ELEMENT Title (#PCDATA)>
+<!ELEMENT Location (#PCDATA)>
+<!ELEMENT Author (#PCDATA)>
+<!ELEMENT Date (#PCDATA)>
+<!ELEMENT Description (#PCDATA)>
+<!ELEMENT Hashtag (Tag*)>
+<!ELEMENT Tag (#PCDATA)>
+

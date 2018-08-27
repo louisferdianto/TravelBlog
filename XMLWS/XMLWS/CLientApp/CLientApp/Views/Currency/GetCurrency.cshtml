@@ -1,0 +1,28 @@
+﻿@model CLientApp.Models.Quotes
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>View</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+</head>
+<body>
+    <table class="table table-dark">
+        <tr><td>Currency 1 USD to</td></tr>
+       <tr><td>Currency List</td></tr>
+        </tbody>
+        <td>Australian Dollar:@Model.USDAUD</td>
+        <td> Swiss Fran: @Model.USDCHF</td>
+        <td>Euro:@Model.USDEUR</td> 
+        <td>Pound sterling: @Model.USDGBP</td>
+        <td> Malaysian Ringgit :@Model.USDMYR</td>
+        <td>Poland zloty:@Model.USDPLN</td>
+        </tbody>
+    </table>
+</body>
+</html>

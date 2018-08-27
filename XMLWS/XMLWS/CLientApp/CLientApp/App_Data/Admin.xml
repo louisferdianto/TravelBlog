@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE admin_credentials SYSTEM "Admin.dtd"[]>
+<admin_credentials>
+  <user id="U3">
+    <email>mirlan@gmail.com</email>
+    <pass>mirlan123</pass>
+    <name>mirlan</name>
+    <numberPost>1</numberPost>
+  </user>
+  <user id="U4">
+    <email>louis_ferdianto@yahoo.com</email>
+    <pass>louis123</pass>
+    <name>louis</name>
+    <numberPost>2</numberPost>
+  </user>
+  <user id="U5">
+    <email>tirza@gmail.com</email>
+    <pass>tirza123</pass>
+    <name>tirza</name>
+    <numberPost>1</numberPost>
+  </user>
+  <user id="U6">
+    <email>dian@gmail.com</email>
+    <pass>dian123</pass>
+    <name>Dian</name>
+    <numberPost>3</numberPost>
+  </user>
+  <user id="U7">
+    <email>inata@gmail.com</email>
+    <pass>inata123</pass>
+    <name>Inata</name>
+    <numberPost>1</numberPost>
+  </user>
+</admin_credentials>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE AdminPost SYSTEM "AdminPost.dtd"[]>
+<AdminPost>
+  <Post id="P1">
+    <Title>Singapore Marina Bay Sand</Title>
+    <Location>Singapore</Location>
+    <Author>mirlan</Author>
+    <Date>24-07-2018</Date>
+    <Description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</Description>
+    <Hashtag>
+      <Tag>Singapore</Tag>
+      <Tag>Sentosa</Tag>
+      <Tag>ResortWorld</Tag>
+    </Hashtag>
+  </Post>
+  <Post id="P2">
+    <Title>Resort World Genting</Title>
+    <Location>Malaysia</Location>
+    <Author>louis</Author>
+    <Date>25-02-2018</Date>
+    <Description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</Description>
+    <Hashtag>
+      <Tag>Malaysia</Tag>
+      <Tag>Genting</Tag>
+      <Tag>ResortWorld</Tag>
+    </Hashtag>
+  </Post>
+  <Post id="P5">
+    <Title>Bali Travel</Title>
+    <Location>Bali</Location>
+    <Author>tirza</Author>
+    <Date>30-07-2018</Date>
+    <Description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</Description>
+    <Hashtag>
+      <Tag>Bali</Tag>
+      <Tag> Indonesia</Tag>
+      <Tag> Denpasar</Tag>
+    </Hashtag>
+  </Post>
+  <Post id="P6">
+    <Title>KLCC</Title>
+    <Location>KL</Location>
+    <Author>louis</Author>
+    <Date>17-07-2018</Date>
+    <Description>KLCC</Description>
+    <Hashtag>
+      <Tag>Kuala Lumpur</Tag>
+    </Hashtag>
+  </Post>
+  <Post id="P7">
+    <Title>KL Bird Park</Title>
+    <Location>Kuala Lumpur</Location>
+    <Author>Dian</Author>
+    <Date>31-07-2018</Date>
+    <Description>KL Bird Park</Description>
+    <Hashtag>
+      <Tag>KL</Tag>
+      <Tag> Bird Park</Tag>
+      <Tag> Malaysia</Tag>
+    </Hashtag>
+  </Post>
+  <Post id="P8">
+    <Title>Raja Ampat</Title>
+    <Location>Bali</Location>
+    <Author>Dian</Author>
+    <Date>31-07-2018</Date>
+    <Description>Raja Ampat</Description>
+    <Hashtag>
+      <Tag>Beach</Tag>
+      <Tag> Indonesia</Tag>
+    </Hashtag>
+  </Post>
+</AdminPost>

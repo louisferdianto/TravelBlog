@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Locations SYSTEM "Location.dtd"[]>
+<Locations>
+  <Location>
+    <Name>Singapore</Name>
+  </Location>
+  <Location>
+    <Name>Malaysia</Name>
+  </Location>
+  <Location>
+    <Name>Bali</Name>
+  </Location>
+  <Location>
+    <Name>Kuala Lumpur</Name>
+  </Location>
+  <Location>
+    <Name>Malaysia</Name>
+  </Location>
+  <Location>
+    <Name>Kuala Lumpur</Name>
+  </Location>
+  <Location>
+    <Name>Kuala Lumpur</Name>
+  </Location>
+  <Location>
+    <Name>Kuala Lumpur</Name>
+  </Location>
+  <Location>
+    <Name>Bali</Name>
+  </Location>
+</Locations>

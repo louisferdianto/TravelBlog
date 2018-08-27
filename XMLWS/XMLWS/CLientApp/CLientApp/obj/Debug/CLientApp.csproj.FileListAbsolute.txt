@@ -1,0 +1,400 @@
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\CLientApp.dll.config
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\CLientApp.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\CLientApp.pdb
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\csc.exe
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\csc.exe.config
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\csc.rsp
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\csi.exe
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\csi.exe.config
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\csi.rsp
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.AppContext.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.Console.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\vbc.exe
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\vbc.exe.config
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\vbc.rsp
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\Newtonsoft.Json.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\System.Net.Http.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\System.Web.Helpers.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\System.Web.Mvc.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\System.Web.Razor.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\System.Web.Webpages.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\Newtonsoft.Json.xml
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\System.Web.Razor.xml
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\System.Web.Webpages.xml
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\System.Web.Helpers.xml
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\System.Web.Mvc.xml
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\obj\Debug\CLientApp.csprojAssemblyReference.cache
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\obj\Debug\CLientApp.csproj.CoreCompileInputs.cache
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\obj\Debug\CLientApp.csproj.CopyComplete
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\obj\Debug\CLientApp.dll
+C:\Users\Kaisar Azamingtov\source\repos\CLientApp\CLientApp\obj\Debug\CLientApp.pdb
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\CLientApp.dll.config
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\CLientApp.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\CLientApp.pdb
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\csc.exe
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\csc.exe.config
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\csc.rsp
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\csi.exe
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\csi.exe.config
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\csi.rsp
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.AppContext.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.Console.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.Threading.Thread.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\vbc.exe
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\vbc.exe.config
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\vbc.rsp
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\Newtonsoft.Json.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\System.Net.Http.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\System.Net.Http.Formatting.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\System.Web.Helpers.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\System.Web.Mvc.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\System.Web.Razor.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\System.Web.Webpages.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\Newtonsoft.Json.xml
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\System.Net.Http.Formatting.xml
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\System.Web.Razor.xml
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\System.Web.Webpages.xml
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\System.Web.Helpers.xml
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\System.Web.Mvc.xml
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\obj\Debug\CLientApp.csproj.CoreCompileInputs.cache
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\obj\Debug\CLientApp.csproj.CopyComplete
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\obj\Debug\CLientApp.dll
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\obj\Debug\CLientApp.pdb
+C:\Users\LOUIS\Desktop\repos\CLientApp\CLientApp\obj\Debug\CLientApp.csprojAssemblyReference.cache
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\CLientApp.dll.config
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\CLientApp.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\CLientApp.pdb
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\csc.exe
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\csc.exe.config
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\csc.rsp
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\csi.exe
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\csi.exe.config
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\csi.rsp
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.AppContext.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.Console.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\vbc.exe
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\vbc.exe.config
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\vbc.rsp
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\Newtonsoft.Json.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\System.Net.Http.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\System.Web.Helpers.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\System.Web.Mvc.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\System.Web.Razor.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\System.Web.Webpages.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\Newtonsoft.Json.xml
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\System.Web.Razor.xml
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\System.Web.Webpages.xml
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\System.Web.Helpers.xml
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\System.Web.Mvc.xml
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\obj\Debug\CLientApp.csprojAssemblyReference.cache
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\obj\Debug\CLientApp.csproj.CoreCompileInputs.cache
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\obj\Debug\CLientApp.csproj.CopyComplete
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\obj\Debug\CLientApp.dll
+C:\Users\Kaisar Azamingtov\Desktop\CLientApp\CLientApp\obj\Debug\CLientApp.pdb
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\CLientApp.dll.config
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\CLientApp.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\CLientApp.pdb
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\csc.exe
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\csc.exe.config
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\csc.rsp
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\csi.exe
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\csi.exe.config
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\csi.rsp
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.AppContext.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.Console.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.Threading.Thread.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\vbc.exe
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\vbc.exe.config
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\vbc.rsp
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\Newtonsoft.Json.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\System.Net.Http.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\System.Net.Http.Formatting.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\System.Web.Helpers.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\System.Web.Mvc.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\System.Web.Razor.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\System.Web.Webpages.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\Newtonsoft.Json.xml
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\System.Net.Http.Formatting.xml
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\System.Web.Razor.xml
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\System.Web.Webpages.xml
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\System.Web.Helpers.xml
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\System.Web.Mvc.xml
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\obj\Debug\CLientApp.csprojAssemblyReference.cache
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\obj\Debug\CLientApp.csproj.CoreCompileInputs.cache
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\obj\Debug\CLientApp.csproj.CopyComplete
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\obj\Debug\CLientApp.dll
+C:\Users\LOUIS\Desktop\Desktop\CLientApp\CLientApp\obj\Debug\CLientApp.pdb
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\CLientApp.dll.config
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\CLientApp.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\CLientApp.pdb
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\csc.exe
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\csc.exe.config
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\csc.rsp
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\csi.exe
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\csi.exe.config
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\csi.rsp
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.AppContext.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.Console.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.Diagnostics.Process.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.IO.Compression.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.IO.Pipes.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.Security.AccessControl.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.Security.Claims.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.Threading.Thread.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.ValueTuple.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.Xml.XPath.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\vbc.exe
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\vbc.exe.config
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\vbc.rsp
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\VBCSCompiler.exe
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\Newtonsoft.Json.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\System.Net.Http.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\System.Net.Http.Formatting.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\System.Security.Cryptography.Algorithms.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\System.Security.Cryptography.Encoding.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\System.Security.Cryptography.Primitives.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\System.Web.Helpers.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\System.Web.Mvc.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\System.Web.Razor.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\System.Web.Webpages.Deployment.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\System.Web.Webpages.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\System.Web.Webpages.Razor.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\Newtonsoft.Json.xml
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\System.Net.Http.Formatting.xml
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\System.Web.Razor.xml
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\System.Web.Webpages.xml
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\System.Web.Webpages.Deployment.xml
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\System.Web.Webpages.Razor.xml
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\System.Web.Helpers.xml
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\System.Web.Mvc.xml
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\obj\Debug\CLientApp.csprojAssemblyReference.cache
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\obj\Debug\CLientApp.csproj.CoreCompileInputs.cache
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\obj\Debug\CLientApp.csproj.CopyComplete
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\obj\Debug\CLientApp.dll
+D:\Inata\Semester 6\XMLWS\Desktop\CLientApp\CLientApp\obj\Debug\CLientApp.pdb

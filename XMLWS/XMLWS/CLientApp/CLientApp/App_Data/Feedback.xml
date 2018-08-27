@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Feedback SYSTEM "Feedback.dtd"[]>
+<Feedback>
+  <Response id="F1" PostId="P1">
+    <Name>Andrew</Name>
+    <Message>Testing</Message>
+  </Response>
+  <Response id="F2" PostId="P1">
+    <Name>Robert Junior</Name>
+    <Message>Marina Bay Sand is fantastic. It has great design and architecture that can attract many tourists </Message>
+  </Response>
+  <Response id="F3" PostId="P3">
+    <Name>Robert Junior</Name>
+    <Message>France has great players</Message>
+  </Response>
+  <Response id="F4" PostId="P1">
+    <Name>asda</Name>
+    <Message>zsda</Message>
+  </Response>
+  <Response id="F5" PostId="P6">
+    <Name>Dian</Name>
+    <Message>Thanks</Message>
+  </Response>
+  <Response id="F6" PostId="P8">
+    <Name>Tirza</Name>
+    <Message>Absbabdasjdkfsjdkfnlsd</Message>
+  </Response>
+  <Response id="F7" PostId="P8">
+    <Name>Louis</Name>
+    <Message>It is good!</Message>
+  </Response>
+</Feedback>

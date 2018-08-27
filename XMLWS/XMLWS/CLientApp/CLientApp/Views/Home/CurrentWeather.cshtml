@@ -1,0 +1,46 @@
+﻿@model CLientApp.Models.WeatherModel
+
+@{
+    ViewBag.Title = "CurrentWeather";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>View</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+</head>
+<body>
+    <table class="table table-dark">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.City)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Weather)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Humidity)
+            </th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>
+                @Model.City
+            </th>
+            <th>
+                @Model.Humidity
+            </th>
+            <th>
+                @Model.Temperature
+            </th>
+            <th></th>
+        </tr>
+
+
+    </table>
+</body>
+</html>
